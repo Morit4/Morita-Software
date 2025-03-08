@@ -1,0 +1,41 @@
+MORITA 1.0
+
+version Windows.
+
+1. REQUISITOS.
+2. INSTALACIÓN.
+3. EJECUTAR.
+4. USO.
+5. INFORME.
+
+1. REQUISITOS
+
+Anaconda3: Instalar Anaconda3 en la ultima version de Python 3.x.
+
+https://www.anaconda.com/download/#windows
+
+2. INSTALACIÓN
+
+Copiar y pegar la carpeta Morita-Windows-1.0 en el directorio que consideres conveniente.
+
+3. EJECUTAR
+
+Para ejecutar el programa seguir los siguientes pasos:
+
+    3.1 Mantener presionada la tecla MAYUSCULA y hacer click con el botón derecho sobre la carpeta Morita-Windows-1.0.
+    3.2 Seleccionar la opción: Abrir la ventana de PowerShell aquí' o 'Abrir ventana de comandos aquí', dependiendo de la versión del sistema operativo.
+    3.3 Escribir o copiar el siguiente comando en el CMD: 'python morita.py' y luego presionar enter.
+
+4. USO.
+
+    4.1 Presionar el botón IMPORTAR y seleccionar el archivo .xlsx de interés.
+    4.2 En el display SELECCIONAR PÁGINA, se desplegaran las hojas activas del documento. Seleccionar la pagina de interés.
+    4.3 Presionar el botón CARGAR DATOS.
+    4.4 Seleccionar las columnas de la tabla que se designaran como Variable Independiente, Condicionante y Variable Dependiente.
+    4.5 Presionar el botón ANALIZAR.
+
+5. INFORME
+
+Se generará un informe en texto plano en la carpeta Morita-Windows-1.0, con dos códigos consecutivos. El primero indica la fecha de analisis y el segundo la hora. Además se creará de forma independiente un layout conteniendo cuatro gráficos distinto.
+
+
